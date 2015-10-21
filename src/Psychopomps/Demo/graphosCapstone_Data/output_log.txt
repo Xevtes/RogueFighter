@@ -1,22 +1,38 @@
 Initialize engine version: 4.5.2f1 (9abb1b59b47c)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 10.1]
-    Renderer: ATI Radeon HD 4200  (ID=0x9710)
-    Vendor:   ATI
-    VRAM:     252 MB
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4000 (ID=0x11fa)
+    Vendor:   NVIDIA
+    VRAM:     3015 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.062 seconds
-desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
+Platform assembly: C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Xevtes\Desktop\Psychopomp\Demo\graphosCapstone_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\graphos\Desktop\RogueFighter\src\Psychopomps\Demo\graphosCapstone_Data\Managed\Boo.Lang.dll (this message is harmless)
+The Enemy Has Attacked
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enemy has respawned
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enemy has respawned
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enemy has respawned
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
 The Enemy Has Attacked
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
@@ -37,23 +53,7 @@ Enemy has respawned
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-The Enemy Has Attacked
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
 Enemy has respawned
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Player Died
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-The Enemy Has Attacked
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
-
-Player has respawned
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
