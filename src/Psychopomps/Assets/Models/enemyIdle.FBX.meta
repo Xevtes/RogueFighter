@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6bb52732f98f9584e878cced3ca52739
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: enemy
+    100004: //RootNode
+    100006: HEAD
+    100008: HELP_LWRIST
+    100010: LARM1
+    100012: LARM2
+    100014: LFINGERA1
+    100016: LFINGERA2
+    100018: LFINGERB1
+    100020: LFINGERB2
+    100022: LFOOT
+    100024: LHAND
+    100026: LLEG1
+    100028: LLEG2
+    100030: LSHOULDER
+    100032: LTHUMB1
+    100034: LTHUMB2
+    100036: Rectangle001
+    100038: RFOOT
+    100040: RLEG1
+    100042: RLEG2
+    100044: SPINE1
+    100046: SPINE2
+    100048: sword
+    400000: Circle001
+    400002: enemy
+    400004: //RootNode
+    400006: HEAD
+    400008: HELP_LWRIST
+    400010: LARM1
+    400012: LARM2
+    400014: LFINGERA1
+    400016: LFINGERA2
+    400018: LFINGERB1
+    400020: LFINGERB2
+    400022: LFOOT
+    400024: LHAND
+    400026: LLEG1
+    400028: LLEG2
+    400030: LSHOULDER
+    400032: LTHUMB1
+    400034: LTHUMB2
+    400036: Rectangle001
+    400038: RFOOT
+    400040: RLEG1
+    400042: RLEG2
+    400044: SPINE1
+    400046: SPINE2
+    400048: sword
+    2300000: sword
+    3300000: sword
+    4300000: enemy
+    4300002: sword
+    7400000: enemyIdle
+    9500000: //RootNode
+    13700000: enemy
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: enemyIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle001/Rectangle001
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/LLEG1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/LLEG1/LLEG2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/LLEG1/LLEG2/LFOOT
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/RLEG1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/RLEG1/RLEG2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/RLEG1/RLEG2/RFOOT
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/HEAD
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LFINGERA1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LFINGERA1/LFINGERA2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LFINGERB1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LFINGERB1/LFINGERB2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LTHUMB1
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/LHAND/LTHUMB1/LTHUMB2
+        weight: 1
+      - path: Circle001/Rectangle001/SPINE2/SPINE1/LSHOULDER/LARM1/LARM2/HELP_LWRIST/sword
+        weight: 1
+      - path: enemy
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Circle001
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
