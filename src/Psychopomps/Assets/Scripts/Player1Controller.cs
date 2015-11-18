@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//Steve Graphos
+using UnityEngine;
 using System.Collections;
 
 public class Player1Controller : MonoBehaviour {
